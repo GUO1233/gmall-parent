@@ -1,0 +1,49 @@
+spring:
+  application:
+    name: service-product
+  profiles:
+    active: dev
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 192.168.200.128:8848
+#  data:
+#    mongodb:
+#      uri:
+
+
+systemLog:
+  #MongoDB发送所有日志输出的目标指定为文件
+  # #The path of the log file to which mongod or mongos should send all diagnostic logging information
+  destination: file
+  #mongod或mongos应向其发送所有诊断日志记录信息的日志文件的路径
+  path: "/mongodb/single/log/mongod.log"
+  #当mongos或mongod实例重新启动时，mongos或mongod会将新条目附加到现有日志文件的末尾。
+  logAppend: true
+storage:
+  #mongod实例存储其数据的目录。storage.dbPath设置仅适用于mongod。
+  ##The directory where the mongod instance stores its data.Default Value is "/data/db".
+  dbPath: "/mongodb/single/data/db"
+  journal:
+    #启用或禁用持久性日志以确保数据文件保持有效和可恢复。
+    enabled: true
+processManagement:
+  #启用在后台运行mongos或mongod进程的守护进程模式。
+  fork: true
+net:
+  #服务实例绑定的IP，默认是localhost
+  bindIp: localhost,192.168.200.100
+  #bindIp
+  #绑定的端口，默认是27017
+  port: 27017
+
+
+
+
+
+
+
+
+
+
+

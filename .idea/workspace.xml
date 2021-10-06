@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e60668d7-82b7-41ac-a23a-54b423e33766" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@192.168.200.128" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@192.168.200.128" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@192.168.200.128" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="gmall_order: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@192.168.200.128" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="gmall_order: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="order_detail: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@192.168.200.128" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="gmall_order: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="order_info: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@192.168.200.128" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="gmall_product: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@192.168.200.128" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="gmall_ware: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@192.168.200.128" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="gmall_ware: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="ware_info: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@192.168.200.128" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="gmall_ware: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="ware_sku: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="gmall-parent" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="FxmlFile" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\repository-spring" />
+        <option name="mavenHome" value="D:/Server/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\Server\apache-maven-3.6.0\conf\settings1.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1i5uyfqlxQLYDAwO5oJGnEp0GZi" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.23007247" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.atguigu.gmall" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\Maven\gmall-parent\web\web-all\src\main\resources" />
+      <recent name="E:\IdeaProjects\Maven\gmall-parent\common\web-util\src\main\java" />
+      <recent name="E:\IdeaProjects\Maven\gmall-parent\model\src\main\java" />
+      <recent name="E:\IdeaProjects\Maven\gmall-parent\module\src\main\java" />
+      <recent name="E:\IdeaProjects\Maven\gmall-parent\common\service-util\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.gmall.common.constant" />
+      <recent name="com.atguigu.gmall.order.config" />
+      <recent name="com.atguigu.gmall.gateway.config" />
+      <recent name="com.atguigu.gmall.list" />
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.atguigu.gmall.item.client.impl" />
+      <recent name="com.atguigu.gmall.item.impl" />
+      <recent name="com.atguigu.gmall.product.client.impl" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ServiceItemApplication">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.gmall.product.service.impl.Test" />
+      <module name="service-product" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.gmall.product.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.gmall.common.util.Test" />
+      <module name="common-util" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.gmall.common.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceCartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-cart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.gmall.cart.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.cart.ServiceCartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceItemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-item" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.item.ServiceItemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceListApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-list" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.gmall.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.list.ServiceListApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.order.ServiceOrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServicePaymentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-payment" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.payment.ServicePaymentApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-product" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.gmall.product.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.product.ServiceProductApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.gmall.user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.user.ServiceUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceWareApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ware-manage" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.ware.ServiceWareApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebAllApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="web-all" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.all.WebAllApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Spring Boot.ServiceUserApplication" />
+        <item itemvalue="Spring Boot.ServiceListApplication" />
+        <item itemvalue="Spring Boot.ServiceProductApplication" />
+        <item itemvalue="Spring Boot.ServiceCartApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <option name="contentProportion" value="0.14561766" />
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\28331\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e60668d7-82b7-41ac-a23a-54b423e33766" name="Default Changelist" comment="" />
+      <created>1601210029652</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601210029652</updated>
+      <workItem from="1601210032755" duration="4999000" />
+      <workItem from="1601254475392" duration="7193000" />
+      <workItem from="1601296356588" duration="30097000" />
+      <workItem from="1601516895553" duration="47160000" />
+      <workItem from="1601918541305" duration="105000" />
+      <workItem from="1602042585835" duration="1615000" />
+      <workItem from="1602156474132" duration="918000" />
+      <workItem from="1602157428276" duration="29000" />
+      <workItem from="1602157476686" duration="39773000" />
+      <workItem from="1602290608754" duration="27779000" />
+      <workItem from="1602464426799" duration="75083000" />
+      <workItem from="1602751485378" duration="755000" />
+      <workItem from="1602828388796" duration="6412000" />
+      <workItem from="1602849706947" duration="3509000" />
+      <workItem from="1602890411658" duration="18739000" />
+      <workItem from="1602952883347" duration="7952000" />
+      <workItem from="1603075041961" duration="38223000" />
+      <workItem from="1603329202124" duration="26533000" />
+      <workItem from="1603418405284" duration="39807000" />
+      <workItem from="1603560476076" duration="4000" />
+      <workItem from="1603599229680" duration="49633000" />
+      <workItem from="1603732595231" duration="10000" />
+      <workItem from="1603762163828" duration="19044000" />
+      <workItem from="1603798146726" duration="23127000" />
+      <workItem from="1603877940305" duration="39113000" />
+      <workItem from="1604039561610" duration="65453000" />
+      <workItem from="1604285028502" duration="2900000" />
+      <workItem from="1604293298806" duration="245000" />
+      <workItem from="1604293553289" duration="11590000" />
+      <workItem from="1604373419004" duration="26425000" />
+      <workItem from="1604491781318" duration="963000" />
+      <workItem from="1604503573506" duration="36706000" />
+      <workItem from="1604708682927" duration="1885000" />
+      <workItem from="1604739132960" duration="601000" />
+      <workItem from="1604765298382" duration="23841000" />
+      <workItem from="1604845306268" duration="27354000" />
+      <workItem from="1605257984955" duration="15719000" />
+      <workItem from="1605482266540" duration="1867000" />
+      <workItem from="1605539302216" duration="30367000" />
+      <workItem from="1606061350351" duration="10630000" />
+      <workItem from="1606183561838" duration="2569000" />
+      <workItem from="1606203656977" duration="824000" />
+      <workItem from="1606206166532" duration="2354000" />
+      <workItem from="1606209244998" duration="767000" />
+      <workItem from="1606270834184" duration="1385000" />
+      <workItem from="1606289761385" duration="3771000" />
+      <workItem from="1606621217524" duration="4270000" />
+      <workItem from="1606652123739" duration="10388000" />
+      <workItem from="1606880101848" duration="7361000" />
+      <workItem from="1606958357464" duration="6877000" />
+      <workItem from="1607043599279" duration="5199000" />
+      <workItem from="1607306340606" duration="1001000" />
+      <workItem from="1607395075432" duration="1233000" />
+      <workItem from="1607488779745" duration="1004000" />
+      <workItem from="1607501010618" duration="8995000" />
+      <workItem from="1607673058111" duration="6234000" />
+      <workItem from="1607995115705" duration="4679000" />
+      <workItem from="1608654065672" duration="97000" />
+      <workItem from="1608654210467" duration="276000" />
+      <workItem from="1609172312192" duration="1211000" />
+      <workItem from="1609532417268" duration="814000" />
+      <workItem from="1609563084279" duration="3224000" />
+      <workItem from="1609862544655" duration="2198000" />
+      <workItem from="1609948464085" duration="5105000" />
+      <workItem from="1610296521386" duration="5228000" />
+      <workItem from="1610724410425" duration="2977000" />
+      <workItem from="1610854879280" duration="1556000" />
+      <workItem from="1611159995908" duration="1736000" />
+      <workItem from="1611316317138" duration="2438000" />
+      <workItem from="1611617630478" duration="6397000" />
+      <workItem from="1612084904691" duration="1636000" />
+      <workItem from="1612631974807" duration="1309000" />
+      <workItem from="1613155051192" duration="1370000" />
+      <workItem from="1613751731032" duration="3704000" />
+      <workItem from="1614091783067" duration="3623000" />
+      <workItem from="1614441410249" duration="8922000" />
+      <workItem from="1614614300409" duration="8598000" />
+      <workItem from="1615114185039" duration="5964000" />
+      <workItem from="1615996088735" duration="3189000" />
+      <workItem from="1616602371842" duration="602000" />
+      <workItem from="1617209495045" duration="1100000" />
+      <workItem from="1617396413357" duration="2062000" />
+      <workItem from="1617839759895" duration="620000" />
+      <workItem from="1618330842795" duration="5487000" />
+      <workItem from="1618377103919" duration="4990000" />
+      <workItem from="1618473508037" duration="7170000" />
+      <workItem from="1619025002160" duration="478000" />
+      <workItem from="1619283763587" duration="2792000" />
+      <workItem from="1619631445974" duration="1989000" />
+      <workItem from="1619803294792" duration="241000" />
+      <workItem from="1620406525705" duration="2064000" />
+      <workItem from="1620568896058" duration="4586000" />
+      <workItem from="1621178771077" duration="2091000" />
+      <workItem from="1621444602536" duration="2077000" />
+      <workItem from="1621964518994" duration="1116000" />
+      <workItem from="1622133288560" duration="4787000" />
+      <workItem from="1622389836217" duration="1626000" />
+      <workItem from="1622546221675" duration="1338000" />
+      <workItem from="1622737313478" duration="1269000" />
+      <workItem from="1623149847904" duration="5361000" />
+      <workItem from="1623769282129" duration="704000" />
+      <workItem from="1623854752017" duration="616000" />
+      <workItem from="1624164493163" duration="3392000" />
+      <workItem from="1624294839707" duration="4837000" />
+      <workItem from="1624984217293" duration="643000" />
+      <workItem from="1625150917021" duration="707000" />
+      <workItem from="1625386227109" duration="726000" />
+      <workItem from="1625410273403" duration="213000" />
+      <workItem from="1625677167623" duration="223000" />
+      <workItem from="1625677422114" duration="1522000" />
+      <workItem from="1625763333906" duration="940000" />
+      <workItem from="1626013970802" duration="1019000" />
+      <workItem from="1626016950960" duration="612000" />
+      <workItem from="1626101372024" duration="1213000" />
+      <workItem from="1626282973845" duration="8328000" />
+      <workItem from="1626994808031" duration="2879000" />
+      <workItem from="1627979708024" duration="1102000" />
+      <workItem from="1628140648514" duration="350000" />
+      <workItem from="1628141021651" duration="1421000" />
+      <workItem from="1628737201169" duration="361000" />
+      <workItem from="1628749790819" duration="784000" />
+      <workItem from="1628784529425" duration="849000" />
+      <workItem from="1628785406945" duration="47000" />
+      <workItem from="1628792088548" duration="884000" />
+      <workItem from="1628934389136" duration="3717000" />
+      <workItem from="1629165475450" duration="912000" />
+      <workItem from="1629227170332" duration="1400000" />
+      <workItem from="1629388554260" duration="829000" />
+      <workItem from="1629442579117" duration="1323000" />
+      <workItem from="1629740081563" duration="310000" />
+      <workItem from="1629912822529" duration="244000" />
+      <workItem from="1630449648419" duration="1074000" />
+      <workItem from="1630513240080" duration="1262000" />
+      <workItem from="1630598496040" duration="710000" />
+      <workItem from="1630949694788" duration="1283000" />
+      <workItem from="1631022711657" duration="1129000" />
+      <workItem from="1631124509906" duration="1049000" />
+      <workItem from="1631450601103" duration="7000" />
+      <workItem from="1631451505003" duration="2394000" />
+      <workItem from="1631683818565" duration="1566000" />
+      <workItem from="1631902506537" duration="1405000" />
+      <workItem from="1632313139315" duration="1879000" />
+      <workItem from="1632764770413" duration="350000" />
+      <workItem from="1633432631097" duration="2459000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/service/service-order/src/main/java/com/atguigu/gmall/order/receiver/OrderReceiver.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
